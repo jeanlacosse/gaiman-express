@@ -5,7 +5,7 @@ SETTING UP A SERVER
 - make a new folder called server w/ a server.js file inside it
 - npm init in terminal, enter through the naming stuff
     - creates package.json
-- run npm install express in terminal to install express
+- npm install express in terminal to install express
     - will create another .json file and node_modules
         - node_modules is all the neccessary packages needed to run express
 - touch .gitignore
